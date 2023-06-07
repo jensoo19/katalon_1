@@ -18,6 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
+WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/input-form-demo')
+
+assert url_2
 
 String name = 'saumya'
 
@@ -27,9 +30,6 @@ String email = 's@gmail.com'
 
 String pass = 'V2fvWhkeYcU='
 
-WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/input-form-demo')
-
-assert url_2
 
 WebUI.setText(findTestObject('Object Repository/lambda_OR/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Name_name'),
 	name)

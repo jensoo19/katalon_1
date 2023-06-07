@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(url_1)
@@ -55,7 +56,6 @@ WebUI.click(findTestObject('Object Repository/Swaglabs_OR/Page_Swag Labs/button_
 
 CustomKeywords.'sauceDemo_.Saucedemo.checkOut'('saumya', 'srivastava')
 
-CustomKeywords
 
 CustomKeywords.'waitAndClick.WaitAndClick.waitandclick'('Object Repository/test2_OR/Page_Swag Labs/input_Cancel_continue',
 	5)
