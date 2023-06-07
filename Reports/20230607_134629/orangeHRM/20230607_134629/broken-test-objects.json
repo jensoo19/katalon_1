@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OrangeHRM/Page_OrangeHRM/p_Groot Khalid",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div/header/div/div[2]/ul/li/span/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//p",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230607_134629/orangeHRM/20230607_134629/Object Repository/OrangeHRM/Page_OrangeHRM/p_Groot Khalid_position.png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>mytest</name>
+   <name>admin_XYZbank</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>5f8349be-ffa0-4ef7-b618-4b35b3a2935b</testCaseGuid>
+   <testCaseGuid>fa527745-c58c-4e14-8269-d2d713e0c5a7</testCaseGuid>
 </TestCaseEntity>

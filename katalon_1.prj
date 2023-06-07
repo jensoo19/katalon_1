@@ -6,6 +6,7 @@
    <UUID>9b5eea30-1f78-4912-91d6-2e9b10ce9fe1</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/home/saumya/git/katalon_1/katalon_1.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

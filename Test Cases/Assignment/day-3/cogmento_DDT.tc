@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cogmento_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6d58642-8668-4a6b-9941-4cb8651bff1f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26c2b78c-9a07-435e-bb01-50af13b20cb0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba50e03d-89a5-42ca-abc3-df7863bee105</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>89f96b85-70fe-469b-a158-3118544261f0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26c2b78c-9a07-435e-bb01-50af13b20cb0</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba50e03d-89a5-42ca-abc3-df7863bee105</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89f96b85-70fe-469b-a158-3118544261f0</id>
+      <masked>false</masked>
+      <name>mname</name>
+   </variable>
+</TestCaseEntity>

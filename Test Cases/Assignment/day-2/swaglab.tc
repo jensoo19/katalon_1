@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>swaglab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e02dcc6-0946-4300-af74-07cab363c2cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64d97513-8815-44b8-84a2-9ce464c650e9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5c91ce9-5dd5-48bb-b132-9770ff8e46d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39272dd9-a00c-41ce-b0db-d1406b73863d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.saucedemo.com/'</defaultValue>
+      <description></description>
+      <id>64d97513-8815-44b8-84a2-9ce464c650e9</id>
+      <masked>false</masked>
+      <name>url_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'saumya'</defaultValue>
+      <description></description>
+      <id>d5c91ce9-5dd5-48bb-b132-9770ff8e46d3</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>'srivastava'</defaultValue>
+      <description></description>
+      <id>39272dd9-a00c-41ce-b0db-d1406b73863d</id>
+      <masked>false</masked>
+      <name>Lname</name>
+   </variable>
+</TestCaseEntity>

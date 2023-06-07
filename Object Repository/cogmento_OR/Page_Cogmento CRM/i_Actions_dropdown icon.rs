@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Actions_dropdown icon</name>
+   <tag></tag>
+   <elementGuidId>745ecf42-4e17-4385-8038-f081cdc374af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tfoot/tr/th[2]/span/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;action&quot;] > i.dropdown.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>833b3b38-015a-4bad-a0c1-fd7998a5263f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e4461ceb-fd92-4f21-9cac-507ada46cd93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown icon</value>
+      <webElementGuid>71eb61d3-accc-4361-8830-da2531aa0414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled definition sortable striped table custom-grid&quot;]/tfoot[1]/tr[1]/th[@class=&quot;left aligned&quot;]/span[1]/div[@class=&quot;ui selection upward dropdown&quot;]/i[@class=&quot;dropdown icon&quot;]</value>
+      <webElementGuid>3d6e35e7-ca2c-4643-bf2b-09c775de34f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tfoot/tr/th[2]/span/div/i</value>
+      <webElementGuid>193e2cb9-3c67-4de5-bd42-9433a0a7d64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/i</value>
+      <webElementGuid>ac2fdf05-0eac-4717-b937-e02faa84c2bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

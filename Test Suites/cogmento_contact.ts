@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>cogmento_contact</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b73c517a-f3fc-480f-9c1a-cca42535a79a</testSuiteGuid>
+   <testCaseLink>
+      <guid>eae0ffa0-6638-485b-b40b-2933ab1e2da9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Assignment/day-3/cogmento_DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>17a42e89-2008-4fd9-af74-ce62313a8c66</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/contact_cogmento</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>17a42e89-2008-4fd9-af74-ce62313a8c66</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fname</value>
+         <variableId>26c2b78c-9a07-435e-bb01-50af13b20cb0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>17a42e89-2008-4fd9-af74-ce62313a8c66</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lname</value>
+         <variableId>ba50e03d-89a5-42ca-abc3-df7863bee105</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>17a42e89-2008-4fd9-af74-ce62313a8c66</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mname</value>
+         <variableId>89f96b85-70fe-469b-a158-3118544261f0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'saumya'</initValue>
+      <name>Fname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sri'</initValue>
+      <name>Lname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'723921'</initValue>
+      <name>postCode</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

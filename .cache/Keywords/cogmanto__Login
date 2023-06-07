@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "9EEE87774B32528127E67957CC2E6BD8",
+  "keywordClasses": [
+    {
+      "name": "cogmanto.Login",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
